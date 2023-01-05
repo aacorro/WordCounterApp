@@ -1,0 +1,11 @@
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\WordCounterApp\bin\Debug\WordCounterApp.exe.config
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\WordCounterApp\bin\Debug\WordCounterApp.exe
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\WordCounterApp\bin\Debug\WordCounterApp.pdb
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\WordCounterApp\obj\Debug\WordCounterApp.csproj.AssemblyReference.cache
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\WordCounterApp\obj\Debug\WordCounterApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\WordCounterApp\obj\Debug\WordCounterApp.Form1.resources
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\WordCounterApp\obj\Debug\WordCounterApp.Properties.Resources.resources
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\WordCounterApp\obj\Debug\WordCounterApp.csproj.GenerateResource.cache
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\WordCounterApp\obj\Debug\WordCounterApp.csproj.CoreCompileInputs.cache
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\WordCounterApp\obj\Debug\WordCounterApp.exe
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\WordCounterApp\obj\Debug\WordCounterApp.pdb
